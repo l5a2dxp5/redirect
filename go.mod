@@ -1,6 +1,6 @@
-module tory
+module github.com/l5a2dxp5
 
-go 1.21.4
+go 1.20
 
 require github.com/gofiber/fiber/v2 v2.51.0
 
